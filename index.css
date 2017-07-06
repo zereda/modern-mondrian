@@ -1,0 +1,81 @@
+body,html{
+    background-color:#f6f6f6;
+}
+#painting {
+    height:400px;
+    width:400px;
+    background-color: white;
+    margin-left :auto;
+    margin-right:auto;
+    margin-top:30px;
+    box-shadow: 10px 10px 0px #8d8d8d;
+
+}
+
+#toprow{
+    height:290px;
+
+}
+#bigbox{
+    width:290px;
+    height:290px;
+}
+.orange{background-color: orange}
+.red{
+    background-color: red;
+}
+.purple{
+    background-color: purple;
+}
+.blue{background-color: blue;
+}
+.yellow{background-color: yellow
+}
+.black{background-color: black;
+}
+.pink{background-color: pink;
+}
+.right{float:right;
+}
+.left{float:left;
+}
+
+#divider1 {
+    height:290px;
+    width:10px;
+}
+
+.mediumbox{
+    width:100px;
+    height:140px;
+}
+#divider2 {
+    height:10px;
+    width:100px;
+}
+#middledivider{
+    height:10px;
+    width: 400px;
+
+}
+#smallbox1{
+    height:100px;
+    width: 100px;
+}
+#smallbox2{
+    height:100px;
+    width:260px;
+}
+#bottomdivider1{
+    height:100px;
+    width:10px;
+
+}
+#bottomcolumn{
+    height:100px;
+    width:400px;
+}
+#bottomdivider2{
+    height:100px;
+    width:10px;
+}
