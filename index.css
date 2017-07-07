@@ -1,6 +1,9 @@
 body,html{
     background-color:#f6f6f6;
 }
+#description {
+    text-align: center;
+}
 #painting {
     height:400px;
     width:400px;
